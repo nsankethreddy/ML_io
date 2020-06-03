@@ -6,3 +6,4 @@
 - Unsupervised learning.   
 - ANN.    
 
+### And files for each of the method in there in the repo
